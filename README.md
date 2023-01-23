@@ -25,5 +25,3 @@
     
 </div>
 <br/>
-  
-![Snake animation](https://github.com/raaisilvaa/raaisilvaa/blob/output/github-contribution-grid-snake.svg)
