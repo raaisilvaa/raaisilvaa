@@ -1,6 +1,6 @@
 ### Olá, me chamo Raí e seja bem vindo! 👋
 
-- 🔭 Sou estudante Full Stack Java pela instituto de ensino da EBAC.
+- 🔭 Sou estudante Full Stack Java pela instituição de ensino da EBAC.
 - 📌 Apaixonado por tecnologia e sempre disposto a aprender!
 
 <div>
