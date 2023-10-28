@@ -4,7 +4,7 @@
 - 📌 Apaixonado por tecnologia e sempre disposto a aprender!
 
 <div>
-<img height="300em" src="https://github-readme-stats.vercel.app/api?username=raaisilvaa&theme=blue-green"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=raaisilvaa&theme=blue-green"/>
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaisilvaa&theme=blue-green"/>
 </div>
 
